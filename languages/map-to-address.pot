@@ -1,0 +1,210 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: SG Map to Address\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-02 06:18+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.5; wp-5.8.2\n"
+"X-Domain: map-to-address"
+
+#: admin/class-woocommerce-delivery-location-map-picker-admin.php:167
+msgid "Additional CSS"
+msgstr ""
+
+#: public/partials/woocommerce-delivery-location-map-picker-public-display.php:57
+msgid "Address"
+msgstr ""
+
+#: admin/class-woocommerce-delivery-location-map-picker-admin.php:115
+msgid "Allow user current location"
+msgstr ""
+
+#: public/partials/woocommerce-delivery-location-map-picker-public-display.php:37
+#: public/partials/woocommerce-delivery-location-map-picker-public-display.php:66
+msgid "Area"
+msgstr ""
+
+#: admin/class-woocommerce-delivery-location-map-picker-admin.php:274
+msgid "Billing location in map"
+msgstr ""
+
+#: public/partials/woocommerce-delivery-location-map-picker-public-display.php:34
+msgid "Change"
+msgstr ""
+
+#: public/partials/woocommerce-delivery-location-map-picker-public-display.php:26
+msgid "Choose address"
+msgstr ""
+
+#: admin/class-woocommerce-delivery-location-map-picker-admin.php:144
+msgid "Custom address title label"
+msgstr ""
+
+#: admin/class-woocommerce-delivery-location-map-picker-admin.php:170
+msgid "Custom styles enter here..."
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Customers can mark their location  on google map and address will be "
+"automatically populated."
+msgstr ""
+
+#: admin/class-woocommerce-delivery-location-map-picker-admin.php:126
+msgid "Default is \"Choose address\""
+msgstr ""
+
+#: admin/class-woocommerce-delivery-location-map-picker-admin.php:140
+msgid "Default is \"Save address & proceed\""
+msgstr ""
+
+#: admin/class-woocommerce-delivery-location-map-picker-admin.php:133
+msgid "Default is \"Save delivery address\""
+msgstr ""
+
+#: admin/class-woocommerce-delivery-location-map-picker-admin.php:147
+msgid "Default is 'Address title'"
+msgstr ""
+
+#: admin/class-woocommerce-delivery-location-map-picker-admin.php:163
+msgid "Default is 'Location is not specified'"
+msgstr ""
+
+#: admin/class-woocommerce-delivery-location-map-picker-admin.php:99
+msgid "Default location latitude"
+msgstr ""
+
+#: admin/class-woocommerce-delivery-location-map-picker-admin.php:107
+msgid "Default location longitude"
+msgstr ""
+
+#: public/partials/woocommerce-delivery-location-map-picker-public-display.php:35
+msgid "Delivery address"
+msgstr ""
+
+#: admin/class-woocommerce-delivery-location-map-picker-admin.php:82
+msgid "Disable"
+msgstr ""
+
+#: public/partials/woocommerce-delivery-location-map-picker-public-display.php:71
+msgid "Door / Flat no."
+msgstr ""
+
+#: admin/class-woocommerce-delivery-location-map-picker-admin.php:151
+msgid "Enable error for unnamed address"
+msgstr ""
+
+#: admin/class-woocommerce-delivery-location-map-picker-admin.php:83
+msgid "Enable for billing"
+msgstr ""
+
+#: admin/class-woocommerce-delivery-location-map-picker-admin.php:85
+msgid "Enable for billing & shipping"
+msgstr ""
+
+#: admin/class-woocommerce-delivery-location-map-picker-admin.php:84
+msgid "Enable for shipping"
+msgstr ""
+
+#: admin/class-woocommerce-delivery-location-map-picker-admin.php:154
+msgid "Enable for show error message while address contains unnamed"
+msgstr ""
+
+#: admin/class-woocommerce-delivery-location-map-picker-admin.php:77
+msgid "Enable map to address"
+msgstr ""
+
+#: admin/class-woocommerce-delivery-location-map-picker-admin.php:93
+msgid "Enter your google maps api key"
+msgstr ""
+
+#: admin/class-woocommerce-delivery-location-map-picker-admin.php:95
+msgid "For reference "
+msgstr ""
+
+#: admin/class-woocommerce-delivery-location-map-picker-admin.php:95
+msgid "Get API"
+msgstr ""
+
+#: admin/class-woocommerce-delivery-location-map-picker-admin.php:90
+msgid "Google Maps API"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://sevengits.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://sevengits.com/plugin/woocommerce-delivery-location-map-picker"
+msgstr ""
+
+#: public/partials/woocommerce-delivery-location-map-picker-public-display.php:38
+#: public/partials/woocommerce-delivery-location-map-picker-public-display.php:76
+msgid "Landmark"
+msgstr ""
+
+#: admin/class-woocommerce-delivery-location-map-picker-admin.php:162
+msgid "Location is not specified"
+msgstr ""
+
+#: admin/class-woocommerce-delivery-location-map-picker-admin.php:123
+msgid "New address card button text"
+msgstr ""
+
+#: admin/class-woocommerce-delivery-location-map-picker-admin.php:130
+msgid "New address popup title"
+msgstr ""
+
+#: admin/class-woocommerce-delivery-location-map-picker-admin.php:137
+msgid "New address save button text"
+msgstr ""
+
+#: public/partials/woocommerce-delivery-location-map-picker-public-display.php:54
+msgid "pick from map"
+msgstr ""
+
+#: public/partials/woocommerce-delivery-location-map-picker-public-display.php:82
+msgid "Save address & proceed"
+msgstr ""
+
+#: public/partials/woocommerce-delivery-location-map-picker-public-display.php:49
+msgid "Save delivery address"
+msgstr ""
+
+#. Author of the plugin
+msgid "Sevengits"
+msgstr ""
+
+#. Name of the plugin
+msgid "SG Map to Address"
+msgstr ""
+
+#: admin/class-woocommerce-delivery-location-map-picker-admin.php:71
+msgid "Sg Map to Address"
+msgstr ""
+
+#: admin/class-woocommerce-delivery-location-map-picker-admin.php:279
+msgid "Shipping location in map"
+msgstr ""
+
+#: admin/class-woocommerce-delivery-location-map-picker-admin.php:116
+msgid "Show current user location when map is loading"
+msgstr ""
+
+#: admin/class-woocommerce-delivery-location-map-picker-admin.php:159
+msgid "unnamed address error message"
+msgstr ""
+
+#: admin/class-woocommerce-delivery-location-map-picker-admin.php:226
+#: admin/class-woocommerce-delivery-location-map-picker-admin.php:250
+msgid "View in map"
+msgstr ""
